@@ -56,7 +56,7 @@ Ada 2 bagian, yaitu Penilaian Utama dan Penilaian Bonus. Rubrik Penilaian Utama 
 
 # File Database
 
-File .SQL berisi struktur database dan beberapa contoh datanya. [**Download disini**](https://drive.google.com/file/d/1h1KOmqr_cHJ1855LEx3rQPu3yE_Aat9y/view?usp=sharing)
+File .SQL berisi struktur database dan beberapa contoh datanya. [**DOWNLOAD DISINI**](https://drive.google.com/file/d/1h1KOmqr_cHJ1855LEx3rQPu3yE_Aat9y/view?usp=sharing)
 
 # Contoh Implementasi Website
 
