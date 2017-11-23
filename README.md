@@ -72,3 +72,7 @@ Contoh Website dapat dilihat [**DISINI**](https://uasprakweb2017.000webhostapp.c
 Silahkan kumpul file website yang sudah diupload pada cloud/service file-sharing [**DISINI**](https://docs.google.com/forms/d/e/1FAIpQLSf4hhpVxwthKoCNY6s7wTdaRXke71O-5dQIQA7xVK4BsHjtZg/viewform?usp=sf_link).
 Jika ada bagian-bagian yang tidak anda kerjakan secara sempurna (hanya setengah jadi, ada bug, dsb), mohon tuliskan dan jelaskan pada kolom yang disediakan pada form.
 
+Lewat dari deadline, nilai diberi minus -2 per jam, hingga hari sabtu jam 23.59.
+
+**TIDAK ADA TOLERANSI KETERLAMBATAN SETELAH ITU**. 
+
