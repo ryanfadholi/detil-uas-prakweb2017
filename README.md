@@ -37,21 +37,22 @@ Ada 2 bagian, yaitu Penilaian Utama dan Penilaian Bonus. Rubrik Penilaian Utama 
 - **(10 Poin)** Website dapat menampilkan seluruh data mahasiswa yang ada dalam bentuk tabel.
 - **(5 Poin)** Data yang ditampilkan diurutkan berdasarkan nama mahasiswa.
 - **(10 Poin)** Website menggunakan konsep Pagination saat menampilkan data (Jumlah data per halaman tidak ditentukan).
-- **(5 Poin)** Navigasi Pagination pada Website dinamis (Bentuk navigasi Pagination tidak ditentukan)
-  *Misalnya pada contoh, halaman data yang sedang dibuka oleh user di-highlight. Lalu jika user berada di halaman pertama maka tombol "Previous" akan dimatikan, sedangkan jika user berada di halaman terakhir maka tombol "Next" dimatikan.*
+
 #### Halaman Input Data Baru
 - **(10 Poin)** Website memiliki satu halaman form yang berisi field *NIM*, *nama*, *Tanggal Lahir*, dan *Jurusan*.
 - **(10 Poin)** Form dapat memasukkan nilai ke dalam database.
 - **(10 Poin)** Form memiliki field "Fakultas" yang dapat dipilih user, dimana field tersebut mengubah pilihan pada field Jurusan secara dinamis.
+- **(5 Poin)** User tidak bisa menekan tombol "Submit" sebelum mengisi seluruh field yang ada.
 - **(5 Poin)** Setelah user menekan "Submit", maka Website kembali ke halaman utama dan memberi feedback ke user bahwa data berhasil dimasukkan.
 *Misalnya pada contoh, akan keluar kotak berwarna hijau pada bagian atas halaman setelah user memasukkan data*
 
 ### Bonus
 > Total Penilaian Utama + Bonus: **120 Poin**
 - **(5 Poin)** Tidak ada folder user_guide, controller welcome, dan view welcome_message pada website.
-- **(5 Poin)** Halaman tampilan data terbuka jika pengguna membuka root folder (misal http://localhost/ci/index.php/) 
+- **(5 Poin)** Title Website dinamis.
 - **(5 Poin)** Ada logo Unsri pada Navbar.
-- **(5 Poin)** Di halaman form, User tidak dapat melakukan "Submit" sebelum seluruh field pada form terisi.
+- **(5 Poin)** Halaman tampilan data terbuka jika pengguna membuka root folder (misal http://localhost/ci/index.php/) 
+
 
 
 # File Database
