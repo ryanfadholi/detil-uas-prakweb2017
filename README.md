@@ -28,11 +28,13 @@ Ada 2 bagian, yaitu Penilaian Utama dan Penilaian Bonus. Rubrik Penilaian Utama 
 #### Framework
 - **(10 Poin)** Menggunakan framework CodeIgniter.
 - **(10 Poin)** Menggunakan framework Bootstrap.
+
 #### Navigation Bar
 - **(5 Poin)** Website memiliki sebuah Navigation Bar/Navbar.
 - **(5 Poin)** Navbar menyediakan link menuju halaman tampilan data dan halaman input data.
 - **(5 Poin)** Navbar dinamis (Jika user berada di satu halaman, maka link ke halaman tersebut diberi tanda). 
   *Misalnya pada contoh, link ke halaman yang sedang dibuka user di-bold.*
+  
 #### Halaman Tampilan Data
 - **(10 Poin)** Website dapat menampilkan seluruh data mahasiswa yang ada dalam bentuk tabel.
 - **(5 Poin)** Data yang ditampilkan diurutkan berdasarkan nama mahasiswa.
