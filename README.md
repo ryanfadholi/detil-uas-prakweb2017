@@ -47,21 +47,23 @@ Ada 2 bagian, yaitu Penilaian Utama dan Penilaian Bonus. Rubrik Penilaian Utama 
 *Misalnya pada contoh, akan keluar kotak berwarna hijau pada bagian atas halaman setelah user memasukkan data*
 
 ### Bonus
-> Total Penilaian Utama + Bonus: **110 Poin**
+> Total Penilaian Utama + Bonus: **120 Poin**
+- **(5 Poin)** Tidak ada folder user_guide, controller welcome, dan view welcome_message pada website.
+- **(5 Poin)** Halaman tampilan data terbuka jika pengguna membuka root folder (misal http://localhost/ci/index.php/) 
 - **(5 Poin)** Ada logo Unsri pada Navbar.
 - **(5 Poin)** Di halaman form, User tidak dapat melakukan "Submit" sebelum seluruh field pada form terisi.
 
 
 # File Database
 
-File .SQL berisi struktur database dan beberapa contoh datanya. [Download disini](https://drive.google.com/file/d/1h1KOmqr_cHJ1855LEx3rQPu3yE_Aat9y/view?usp=sharing)
+File .SQL berisi struktur database dan beberapa contoh datanya. [**Download disini**](https://drive.google.com/file/d/1h1KOmqr_cHJ1855LEx3rQPu3yE_Aat9y/view?usp=sharing)
 
 # Contoh Implementasi Website
 
-Contoh Website dapat dilihat disini.
+Contoh Website dapat dilihat [**DISINI**](https://uasprakweb2017.000webhostapp.com/).
 
 # Form Pengumpulan
 
-Silahkan kumpul link hosting dan file website yang sudah diupload pada cloud/service file-sharing [**DISINI**](https://docs.google.com/forms/d/e/1FAIpQLSf4hhpVxwthKoCNY6s7wTdaRXke71O-5dQIQA7xVK4BsHjtZg/viewform?usp=sf_link).
-Website **HARUS** diupload ke webhosting. Jika ada bagian-bagian yang tidak anda kerjakan secara sempurna (hanya setengah jadi, ada bug, dsb), mohon tuliskan dan jelaskan pada kolom yang disediakan pada form.
+Silahkan kumpul file website yang sudah diupload pada cloud/service file-sharing [**DISINI**](https://docs.google.com/forms/d/e/1FAIpQLSf4hhpVxwthKoCNY6s7wTdaRXke71O-5dQIQA7xVK4BsHjtZg/viewform?usp=sf_link).
+Jika ada bagian-bagian yang tidak anda kerjakan secara sempurna (hanya setengah jadi, ada bug, dsb), mohon tuliskan dan jelaskan pada kolom yang disediakan pada form.
 
