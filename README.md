@@ -50,6 +50,7 @@ Ada 2 bagian, yaitu Penilaian Utama dan Penilaian Bonus. Rubrik Penilaian Utama 
 
 ### Bonus
 > Total Penilaian Utama + Bonus: **120 Poin**
+
 - **(5 Poin)** Tidak ada folder user_guide, controller welcome, dan view welcome_message pada website.
 - **(5 Poin)** Title Website dinamis.
 - **(5 Poin)** Ada logo Unsri pada Navbar.
