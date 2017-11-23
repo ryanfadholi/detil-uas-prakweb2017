@@ -1,4 +1,5 @@
-# Outline
+# Informasi
+## Outline
 1. Deskripsi Soal
 2. Waktu Pengerjaan
 3. Rubrik Penilaian
